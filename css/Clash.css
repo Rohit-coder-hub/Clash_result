@@ -445,6 +445,13 @@ footer {
   }
 }
 
+@media (min-width:1020px) and (max-width:1028px)
+{
+  .card-body
+  {
+    font-size: 16px ;
+  }
+}
 
   @media(max-width:922px)
   {
